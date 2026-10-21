@@ -1,70 +1,150 @@
 <div align="center">
 
-# Hi there, I'm Megha Sahu 👋
-### Full-Stack Developer & Applied AI Engineer (3+ YOE)
-**MERN • PHP (Laravel / CodeIgniter) • Python (FastAPI / Django) • LLMs & AI Agents**
+<!-- Animated Header Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Megha%20Sahu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20PHP%20%E2%80%A2%20MERN%20%E2%80%A2%20Python%20%E2%80%A2%20Applied%20AI&descAlignY=58&descAlign=50" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/megha-s-105b32188)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meghasahu2023@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/megha250903)
+<!-- Animated Dynamic Typing Headline -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(3%2B+Years+Experience);MERN+Stack+%E2%80%A2+PHP+(Laravel+%26+CodeIgniter);Python+(FastAPI+%E2%80%A2+Django+%E2%80%A2+Frappe);Applied+AI+%26+LLM+Systems+(Groq+%E2%80%A2+Llama+3+%E2%80%A2+Qdrant);Building+Scalable+SaaS+%26+Marketplaces" alt="Typing SVG" />
+</a>
 
+<br/>
+
+<!-- Social Connect Badges -->
 <p align="center">
-  Full Stack Developer with 3+ years of production experience building high-scale SaaS, multi-tenant architectures, ERPs, marketplaces, and AI-powered systems. Currently engineering full-stack platforms at <b>Ispecia Technology</b>.
+  <a href="https://linkedin.com/in/megha-s-105b32188" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:meghasahu2023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/megha250903">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-### 🚀 What I Do
-- ⚡ **Full-Stack Web Engineering:** Building responsive, SEO-optimized (95+ score) web platforms with **React.js, Next.js (SSR), TypeScript, and Tailwind CSS**.
-- 🛠️ **Robust Backend Architecture:** Designing performant REST APIs, microservices, and WebSockets across **Node.js, Express, PHP (Laravel, CodeIgniter 3/4), and Python (FastAPI, Django, Frappe)**.
-- 🤖 **Applied AI & LLM Systems:** Developing real-time resume parsing, RAG vector pipelines, and prompt-engineered workflows using **Groq Cloud, Llama 3, Qdrant Vector DB, and strict JSON schemas**.
-- 💳 **Payments & Integrations:** Deep experience integrating **Stripe, Razorpay, Shiprocket, Cloudinary, OAuth, JWT, and RBAC**.
+### 💫 About Me
+```javascript
+const meghaSahu = {
+  pronouns: "she/her",
+  experience: "3+ Years in Production Full-Stack Engineering",
+  currentRole: "Full Stack Developer at Ispecia Technology",
+  coreStack: ["PHP (Laravel, CodeIgniter)", "MERN / Next.js", "Python (FastAPI, Django)"],
+  aiExpertise: ["Groq Llama 3", "RAG Vector Pipelines", "Qdrant DB", "JSON Output Schemas"],
+  pastExperience: ["Pearl Organization", "Nickelfox", "Cognizant"],
+  passion: "Architecting high-scale SaaS, resilient developer tools, and low-latency AI integrations"
+};
+```
 
 ---
 
-### 💻 Comprehensive Tech Stack & Toolkit
+### 💻 Technologies & Toolkit
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38) |
-| **Backend & APIs** | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?logo=codeigniter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.dot.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
-| **AI & LLM Stack** | ![Groq](https://img.shields.io/badge/Groq_Cloud-F55036) ![Llama 3](https://img.shields.io/badge/Meta_Llama_3-0467DF) ![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-DC2626) ![Prompt Engineering](https://img.shields.io/badge/JSON_Schema_Output-000) ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-8B5CF6) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B) |
-| **Integrations** | ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?logo=razorpay&logoColor=white) ![Shiprocket](https://img.shields.io/badge/Shiprocket-FF6B00) ![JWT & OAuth](https://img.shields.io/badge/JWT_&_OAuth-000) ![WebSockets](https://img.shields.io/badge/WebSockets-010101) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) |
+#### 🌐 Languages & Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css,react,nextjs,tailwind,redux&perline=10" />
+</a>
+
+<br/>
+
+#### ⚙️ Backend, Frameworks & Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=laravel,codeigniter,nodejs,express,fastapi,django,postgres,mongodb,mysql,redis&perline=10" />
+</a>
+
+<br/>
+
+#### 🛠️ DevOps, Cloud & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux,vercel&perline=7" />
+</a>
+
+<br/>
+
+#### 🤖 AI, LLM & Integrations
+<p align="center">
+  <img src="https://img.shields.io/badge/Groq_Cloud-Llama_3-F55036?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-Vector_Database-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Gen-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stripe-Payments-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-Integration-02042B?style=flat-square&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shiprocket-Logistics-FF6B00?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT_&_OAuth-RBAC-000000?style=flat-square" />
+</p>
 
 </div>
 
 ---
 
-### 🌟 Featured Highlights & Projects
+### 🔥 Featured Projects & Systems
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[TopFit](https://github.com/megha250903/TopFit)** | AI-powered resume screening & candidate ranking platform. Uses PyPDF and Groq-hosted Llama 3 with strict JSON schema outputs to match job criteria live. | `React 18`, `TypeScript`, `FastAPI`, `Groq LLM`, `Llama 3` |
-| **[AskDesk](https://github.com/megha250903/AskDesk)** | Multi-tenant AI support platform featuring auth, billing, RAG vector search, and an LLM gateway with tenant isolation. | `TypeScript`, `Next.js`, `FastAPI`, `Qdrant Vector DB` |
-| **[NeverLost](https://github.com/megha250903/neverLost)** | Resilient Manifest V3 browser extension that auto-saves form inputs locally to prevent data loss from browser crashes and session timeouts. | `JavaScript`, `Manifest V3`, `Web APIs`, `Storage API` |
-| **CareAxis (Hospital SaaS)** | Multi-tenant hospital management SaaS on microservices architecture (OPD/IPD, bed allocation, OT scheduling, anonymous mental health doctor chat). | `Next.js`, `Node.js`, `Python`, `PostgreSQL`, `Docker` |
-| **Ringet Service** | Full-stack service platform featuring AJAX-driven SPA interactions without page reloads, custom RBAC, and secure payment gateway integration. | `PHP`, `CodeIgniter 3`, `MySQL`, `jQuery`, `AJAX` |
-| **[AIMade](https://github.com/megha250903/AIMade)** | High-throughput asynchronous compute engine for decoupled text summarization and sentiment analysis. | `Node.js`, `Express`, `TaskStream`, `Queue Architecture` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/megha250903/TopFit">TopFit — AI Resume Screener</a></h3>
+      <p>AI-powered recruitment candidate ranking system. Parses multi-page PDF resumes using PyPDF and Groq-hosted Llama 3 to output structured JSON matching recruiter criteria with live candidate scoring.</p>
+      <p><b>Stack:</b> <code>React 18</code>, <code>TypeScript</code>, <code>FastAPI</code>, <code>Groq LLM</code>, <code>Llama 3</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/megha250903/neverLost">NeverLost — Form Crash Rescuer</a></h3>
+      <p>Resilient Manifest V3 browser extension auto-saving form inputs locally to prevent data loss from browser crashes and session expirations. 100% on-device privacy.</p>
+      <p><b>Stack:</b> <code>JavaScript</code>, <code>Manifest V3</code>, <code>Chrome Storage API</code>, <code>Synthetic DOM</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://github.com/megha250903/AskDesk">AskDesk — Multi-Tenant AI Platform</a></h3>
+      <p>Multi-tenant AI support platform featuring auth, subscription billing, tenant-isolated vector search with Qdrant, and an LLM gateway for intelligent support automation.</p>
+      <p><b>Stack:</b> <code>TypeScript</code>, <code>Next.js</code>, <code>FastAPI</code>, <code>Qdrant Vector DB</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/megha250903/AIMade">AIMade — TaskStream Platform</a></h3>
+      <p>High-throughput asynchronous compute engine built to process decoupled text summarization, sentiment classification, and queued background AI workloads without bottlenecks.</p>
+      <p><b>Stack:</b> <code>Node.js</code>, <code>Express</code>, <code>TaskStream Queue</code>, <code>Worker Threads</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 CareAxis — Hospital Management SaaS</h3>
+      <p>Multi-tenant healthcare SaaS on microservices covering OPD/IPD, bed allocations, digital prescriptions, OT scheduling, and anonymous psychiatric patient consultation.</p>
+      <p><b>Stack:</b> <code>Next.js</code>, <code>Node.js</code>, <code>Python</code>, <code>PostgreSQL</code>, <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Bharat Furniture & SIS ERP</h3>
+      <p>Enterprise ERP and eCommerce solutions with custom OAuth, multi-role RBAC, Shiprocket automated dispatch logistics, and secure payment gateway checkouts.</p>
+      <p><b>Stack:</b> <code>PHP</code>, <code>Laravel</code>, <code>CodeIgniter</code>, <code>MySQL</code>, <code>Stripe</code>, <code>Razorpay</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💼 Experience Timeline
-- **Ispecia Technology** — *Full Stack Developer* `(06/2025 – Present)`
-- **Pearl Organization** — *Full Stack Developer (PHP, Laravel, CodeIgniter, MERN)* `(01/2023 – 02/2025)`
-- **Nickelfox** — *Django Developer* `(02/2022 – 07/2022)`
-- **Cognizant** — *Program Analyst Trainee* `(02/2021 – 01/2022)`
-
----
-
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=megha250903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha250903&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=megha250903&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=megha250903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha250903&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=120&section=footer" width="100%" />
+
+<sub>⚡ Crafted with passion by <b>Megha Sahu</b> &bull; Open for exciting Full-Stack & Applied AI opportunities</sub>
+
 </div>
